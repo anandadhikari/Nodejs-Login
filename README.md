@@ -20,10 +20,4 @@ $ npm run dev
 
 ### MongoDB
 
-Add "config/keys.js" and add your MongoDB URI, local or Atlas
-dbPassword = 'mongodb+srv://<username>:<pass>@cluster0.udpgg.mongodb.net/test'
-
-module.exports = {
-    mongoURI: dbPassword
-};
-
+Open "config/keys.js" and add your MongoDB URI, local or Atlas
